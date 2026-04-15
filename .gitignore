@@ -39,3 +39,6 @@ data/*.sqlite
 # OS specific files
 .DS_Store
 Thumbs.db
+
+# Local Documentation
+documentation/
