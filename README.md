@@ -15,7 +15,7 @@ For a detailed breakdown of every phase, check out the files in the `documentati
 2. [Technical Notebook Guide](documentation/02_Technical_Notebooks_Guide.md)
 3. [ML & Math Deep Dive](documentation/03_Machine_Learning_and_Math_Deep_Dive.md)
 4. [Power BI & DAX Reference](documentation/04_PowerBI_Dashboard_and_DAX_Reference.md)
-5. [Interview Prep Guide](documentation/05_Interview_Prep_Master_Guide.md)
+
 
 ## 🚀 How to Run the App
 1. Install dependencies: `pip install -r requirements.txt`
